@@ -1,1 +1,2 @@
-# AI-for-medicine-Coursera
+# IA para medicina
+
